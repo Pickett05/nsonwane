@@ -14,3 +14,9 @@ I am a PhD student at Imperial College London.
 
 * Dynamics Days 2025
 * NetSciX
+
+!!! note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
