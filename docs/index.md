@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Nidhi Sonwane
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Photo of me](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/12495758-8b68-4661-a7bf-67025b176348" />)
 
-## Commands
+I am a PhD student at Imperial College London.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Interests
 
-## Project layout
+* Poetry
+* Badminton
+* Hiking
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Conferences
+
+* Dynamics Days 2025
+* NetSciX
