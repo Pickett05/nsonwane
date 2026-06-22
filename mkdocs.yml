@@ -3,6 +3,8 @@ theme:
   name: material
   palette:
     primary: teal
+  features:
+    - navigation.tabs
 markdown_extensions:
   - admonition
   - pymdownx.details
